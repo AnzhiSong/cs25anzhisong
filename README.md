@@ -4,7 +4,9 @@ cs25anzhisong Pages Assessment
 
 Involves
 
-* cs25hangyu* git
+* cs25anzhisong git
+
+* git
 
 * GitHub
 
